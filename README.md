@@ -1,1 +1,1 @@
-# C-program-to-check-whether-a-character-is-Vowel-or-Consonant-
+# C-program-to-check-whether-a-character-is-Vowel-or-Consonant-Using Function 
